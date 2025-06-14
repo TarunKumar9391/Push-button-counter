@@ -1,1 +1,12 @@
 # Push-button-counter
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: KALLA TARUN KUMAR 
+
+INTERN ID: CT04DF1735
+
+DOMAIN: Embedded Systems
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
